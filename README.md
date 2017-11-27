@@ -1,2 +1,4 @@
 # springbootdemo
 springboot实现负载均衡
+
+修改add的application.yml的端口配置，分别运行在8762和8763端口
